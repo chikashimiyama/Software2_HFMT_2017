@@ -162,6 +162,7 @@ void draw(){ // Schtleife
    }
 }
 ```
+![](img/code9.png)
 
 ## code10:Array
 
@@ -188,6 +189,7 @@ void draw(){ // Schleife
    }
 }
 ```
+![](img/code10.png)
 
 ## code11:Zehn Ballen
 ```
@@ -209,6 +211,7 @@ void draw(){ // Schleife
    }
 }
 ```
+![](img/code11.png)
 
 
 ## HA: Loopy Space
