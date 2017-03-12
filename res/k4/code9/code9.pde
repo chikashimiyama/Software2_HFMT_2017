@@ -9,7 +9,6 @@ void draw(){
 }
 
 void keyPressed(){
-  
    text(key, position, 150); 
    position += 20;
 }

@@ -158,7 +158,29 @@ void keyPressed(){
 
 ## Code10: OSC von Max
 
+```
+import oscP5.*;
+import netP5.*;
+  
+OscP5 oscP5;
 
-## Code11: 
+void setup() {
+  size(300,300);
+  oscP5 = new OscP5(this,12000);
+}
+
+void draw() {
+}
+
+void oscEvent(OscMessage theOscMessage) {
+  print("addrpattern: "+theOscMessage.addrPattern());
+  println("value: "+theOscMessage.get(0).intValue());
+}
+```
+![](res/k4/img/code10_a.png)
+![](res/k4/img/code10_b.png)
+
+
+
 
 
