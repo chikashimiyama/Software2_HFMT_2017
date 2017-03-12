@@ -8,7 +8,7 @@ void setup(){
 }
 ```
 
-![](img/code1.png)
+![](res/k1/img/code1.png)
  
 ## code2:Hintergrundfarbe
 
@@ -19,7 +19,7 @@ void setup(){
 }
 ```
 
-![](img/code2.png)
+![](res/k1/img/code2.png)
 
 ## code3:Linie
 
@@ -31,7 +31,7 @@ void setup(){
 } 
 ```
 
-![](img/code3.png)
+![](res/k1/img/code3.png)
 
 ## code4:Kreis
 
@@ -43,7 +43,7 @@ void setup(){
 }
 ```
 
-![](img/code4.png)
+![](res/k1/img/code4.png)
 
 ## code5:Japanische Flagge
 
@@ -57,7 +57,7 @@ void setup(){
 
 ```
 
-![](img/code5.png)
+![](res/k1/img/code5.png)
 
 ## code6:Ohne Umriss
 
@@ -71,7 +71,7 @@ void setup(){
 }
 ```
 
-![](img/code6.png)
+![](res/k1/img/code6.png)
 
 ## code7:Nur Umriss
 
@@ -86,7 +86,7 @@ void setup(){
 }
 ```
 
-![](img/code7.png)
+![](res/k1/img/code7.png)
 
 ## code8:Mehrere Kreise
 
@@ -107,7 +107,7 @@ void setup(){
 }
 ```
 
-![](img/code8.png)
+![](res/k1/img/code8.png)
 
 ## code9:Print
 
@@ -117,7 +117,7 @@ void setup(){
 }
 ```
 
-![](img/code9.png)
+![](res/k1/img/code9.png)
 
 ## code10:Variabel
 
@@ -130,7 +130,7 @@ void setup(){
 }
 ```
 
-![](img/code10.png)
+![](res/k1/img/code10.png)
 
 ## code11:For-Schleife
 
@@ -144,7 +144,7 @@ void setup(){
 }
 ```
 
-![](img/code11.png)
+![](res/k1/img/code11.png)
 
 ## code12:Mehrere Kreise mit einer For-Schleife
 
@@ -161,7 +161,7 @@ void setup(){
 }
 ```
 
-![](img/code12.png)
+![](res/k1/img/code12.png)
 
 ## code13:Farbeänderung
 
@@ -178,7 +178,7 @@ void setup(){
 }
 ```
 
-![](img/code13.png)
+![](res/k1/img/code13.png)
 
 ## code14:Randomisierung
 
@@ -196,7 +196,7 @@ void setup(){
 }
 ```
 
-![](img/code14.png)
+![](res/k1/img/code14.png)
 
 
 
@@ -204,7 +204,7 @@ void setup(){
 
 Programmieren Sie ein Sketch, das folgende Bild generiert.
 
-![](img/ha.png)
+![](res/k1/img/ha.png)
 
 - Die Größe des Fensters 300x300
 - 30*30 Quadrate

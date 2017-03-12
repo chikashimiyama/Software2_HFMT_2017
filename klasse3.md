@@ -9,7 +9,7 @@ void setup(){
 }
 ```
 
-![](img/code1.png)
+![](res/k3/img/code1.png)
  
 ## code2: Vershiebung mit translate
 ```
@@ -19,7 +19,7 @@ void setup(){
   rect(-20,-20,40,40);
 }
 ```
-![](img/code2.png)
+![](res/k3/img/code2.png)
 
 ## code3: zwei Rechtecke 
 
@@ -32,7 +32,7 @@ void setup(){
 }
 ```
 
-![](img/code3.png)
+![](res/k3/img/code3.png)
 
 ## code4: Animation mit Verschiebung
 
@@ -51,7 +51,7 @@ void draw(){
 }
 ```
 
-![](img/code4.png)
+![](res/k3/img/code4.png)
 
 ## code5: Sinus + Verschiebung
 
@@ -70,7 +70,7 @@ void draw(){
 }
 ```
 
-![](img/code5.png)
+![](res/k3/img/code5.png)
 
 ## code6: Kreisbewegung
 
@@ -89,7 +89,7 @@ void draw(){
 }
 ```
 
-![](img/code6.png)
+![](res/k3/img/code6.png)
 
 ## code7: Skalierung
 
@@ -112,7 +112,7 @@ void draw(){
 }
 ```
 
-![](img/code7.png)
+![](res/k3/img/code7.png)
 
 ## code8:Drehung
 ```
@@ -131,7 +131,7 @@ void draw(){
 }
 ```
 
-![](img/code8.png)
+![](res/k3/img/code8.png)
 
 ## code9:Drehung und Drehpunkt
 ```
@@ -149,7 +149,7 @@ void draw(){
   x += 0.05;
 }
 ```
-![](img/code9.png)
+![](res/k3/img/code9.png)
 
 ## code10:Sonnensystem
 
@@ -172,7 +172,7 @@ void draw(){
   x += 0.05;
 }
 ```
-![](img/code10.png)
+![](res/k3/img/code10.png)
 
 ## code11:Unabhengige Bewegungen 1 
 ```
@@ -188,7 +188,7 @@ void draw(){
   ellipse(0,0,40,40);
 }
 ```
-![](img/code11.png)
+![](res/k3/img/code11.png)
 
 ## code12:Unabhengige Bewegungen 2
 
@@ -205,7 +205,7 @@ void draw(){
   ellipse(0,0,40,40);
 }
 ```
-![](img/code12.png)
+![](res/k3/img/code12.png)
 
 ## code13:Unabhengige Bewegungen 3
 ```
@@ -230,12 +230,12 @@ void draw(){
   y += 0.05;
 }
 ```
-![](img/code13.png)
+![](res/k3/img/code13.png)
 
 ## HA: Blasen
 
 Programmieren Sie ein Sketch, das die folgende Animation generiert.
 
-[Animation](HA/ha.mp4)
+[Animation](res/k3/HA/ha.mp4)
 
 

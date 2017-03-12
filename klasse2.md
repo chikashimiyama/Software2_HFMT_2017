@@ -1,4 +1,4 @@
-#Klasse1 - Animation
+#Klasse2 - Animation
 
 ## code1: Setup - führt nur einmal aus
 
@@ -9,7 +9,7 @@ void setup(){
 }
 ```
 
-![](img/code1.png)
+![](res/k2/img/code1.png)
  
 ## code2: Draw - mit Wiederholung (endlos)
 
@@ -22,7 +22,7 @@ void draw(){ // Schtleife
    println("hello"); // mit Wiederholung
 }
 ```
-![](img/code2.png)
+![](res/k2/img/code2.png)
 
 ## code3: Variabel außerhalb Funktionen
 
@@ -38,7 +38,7 @@ void draw(){ // Schleife
 }
 ```
 
-![](img/code3.png)
+![](res/k2/img/code3.png)
 
 ## code4: Zählung
 
@@ -55,7 +55,7 @@ void draw(){ // Schleife
 }
 ```
 
-![](img/code4.png)
+![](res/k2/img/code4.png)
 
 ## code5: Bewegung
 
@@ -73,7 +73,7 @@ void draw(){ // Schtleife
 }
 ```
 
-![](img/code5.png)
+![](res/k2/img/code5.png)
 
 ## code6: Clear
 
@@ -91,7 +91,7 @@ void draw(){ // Schleife
 }
 ```
 
-![](img/code6.png)
+![](res/k2/img/code6.png)
 
 ## code7: if
 
@@ -112,7 +112,7 @@ void draw(){ // Schtleife
 }
 ```
 
-![](img/code7.png)
+![](res/k2/img/code7.png)
 
 ## code8:Pendel
 ```
@@ -135,7 +135,7 @@ void draw(){ // Schtleife
 }
 ```
 
-![](img/code8.png)
+![](res/k2/img/code8.png)
 
 ## code9:Zwei Ballen
 ```
@@ -162,7 +162,7 @@ void draw(){ // Schtleife
    }
 }
 ```
-![](img/code9.png)
+![](res/k2/img/code9.png)
 
 ## code10:Array
 
@@ -189,7 +189,7 @@ void draw(){ // Schleife
    }
 }
 ```
-![](img/code10.png)
+![](res/k2/img/code10.png)
 
 ## code11:Zehn Ballen
 ```
@@ -211,13 +211,13 @@ void draw(){ // Schleife
    }
 }
 ```
-![](img/code11.png)
+![](res/k2/img/code11.png)
 
 
 ## HA: Loopy Space
 
 Programmieren Sie ein Sketch, das die folgende Animation generiert.
 
-[Animation](img/ha.mp4)
+[Animation](res/k2/img/ha.mp4)
 
 

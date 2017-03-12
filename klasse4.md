@@ -12,7 +12,7 @@ void draw(){
 }
 ```
 
-![](img/code1.png)
+![](res/k4/img/code1.png)
 
 ## Code2: Ein Ball folgt den Cursor
 
@@ -26,7 +26,7 @@ void draw(){
 }
 ```
 
-![](img/code2.png)
+![](res/k4/img/code2.png)
 
 
 ## Code3: Klick
@@ -42,7 +42,7 @@ void mousePressed(){
    println("mouse pressed! position:" + mouseX + ":" + mouseY); 
 }
 ```
-![](img/code3.png)
+![](res/k4/img/code3.png)
 
 ## Code4: Ball Generator
 ```
@@ -57,7 +57,7 @@ void mousePressed(){
 	ellipse(mouseX, mouseY, 40, 40);
 }
 ```
-![](img/code4.png)
+![](res/k4/img/code4.png)
 
 ## Code5: Marlersoftware?
 ```
@@ -73,7 +73,7 @@ void mouseDragged(){
   ellipse(mouseX, mouseY, 40, 40);
 }
 ```
-![](img/code5.png)
+![](res/k4/img/code5.png)
 
 ## Code6: Frequenzsteuerung mit Maus
 ```
@@ -94,7 +94,7 @@ void mouseMoved(){
   increment = mouseX / 1000.0;
 }
 ```
-![](img/code6.png)
+![](res/k4/img/code6.png)
 
 ## Code7: Tastatur
 ```
@@ -110,7 +110,7 @@ void keyPressed(){
 }
 ```
 
-![](img/code7.png)
+![](res/k4/img/code7.png)
 
 ## Code8: Interaktion mit Tastatur
 
@@ -132,7 +132,7 @@ void keyPressed(){
   }
 }
 ```
-![](img/code8.png)
+![](res/k4/img/code8.png)
 
 ## Code9: Text auf dem Fenster
 
@@ -153,7 +153,7 @@ void keyPressed(){
    position += 20;
 }
 ```
-![](img/code9.png)
+![](res/k4/img/code9.png)
 
 
 ## Code10: OSC von Max
