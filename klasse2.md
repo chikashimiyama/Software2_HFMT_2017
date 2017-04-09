@@ -18,7 +18,7 @@ void setup(){
    size(300,300);  // Die Größe des Fensters
 }
 
-void draw(){ // Schtleife
+void draw(){ // Schleife
    println("hello"); // mit Wiederholung
 }
 ```
@@ -66,7 +66,7 @@ void setup(){
    size(300,300);  // Die Größe des Fensters
 }
 
-void draw(){ // Schtleife
+void draw(){ // Schleife
    println(myNumber); // mit Wiederholung
    myNumber += 4;
    ellipse(myNumber, 50, 20,20);  
@@ -102,7 +102,7 @@ void setup(){
    size(300,300);  // Die Größe des Fensters
 }
 
-void draw(){ // Schtleife
+void draw(){ // Schleife
    clear();
    myNumber += speed;
    ellipse(myNumber, 50, 20,20);
@@ -122,7 +122,7 @@ void setup(){
    size(300,300);  // Die Größe des Fensters
 }
 
-void draw(){ // Schtleife
+void draw(){ // Schleife
    clear();
    myNumber += speed;
    ellipse(myNumber, 50, 20,20);
@@ -147,7 +147,7 @@ void setup(){
    size(300,300);  // Die Größe des Fensters
 }
 
-void draw(){ // Schtleife
+void draw(){ // Schleife
    clear();
    ball1 += speed1;
    ball2 += speed2;
