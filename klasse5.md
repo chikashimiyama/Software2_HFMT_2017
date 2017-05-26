@@ -4,13 +4,13 @@
 
 Eine Funktion (englisch function) ist die Bezeichnung eines Programmkonstrukts, mit dem der Programm-Quellcode strukturiert werden kann, so dass Teile der Funktionalität des Programms wiederverwendbar sind. 
 
-### Definition einer Funktion
+### Definition einer Funktion in Processing
 
 *return-type function-name (parameter-type parameter-name)*
 
 z.B.
 
-**int myFunc(int param){}** ... Diese Funktion heißt "myFunk". Die Funktion akkzeptiert einen Integer-Paramter und gibt einen Integer zurück.
+**int myFunc(int param){}** ... Diese Funktion heißt "myFunc". Die Funktion akkzeptiert einen Integer-Paramter und gibt einen Integer zurück.
 
 **void yourFunc(){}** ... Diese Funktion nimmt keine Parameter und gibt keine Werte zurück.
 
@@ -18,7 +18,7 @@ z.B.
 
 ```
 void setup(){
-	yourFunc(); // führt yourFunc aus
+	yourFunc();
 }
 
 void yourFunc(){ // keine Rückgabe keine Parameter
@@ -176,4 +176,3 @@ Die zweite Seite für Funktionsbibliotheken: mathematische Einzelheiten.
 - [Code Complete](https://www.amazon.de/dp/B00JDMPOSY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Clean Code](https://www.amazon.de/dp/B001GSTOAM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-## HA
