@@ -57,7 +57,7 @@ Wenn der Benutzer 'p' Taste drückt, stoppt das Quadrat die Drehung. Mit der 's'
 
 	- Hinweis: keyPressed
 
-[Video](https://www.youtube.com/watch?v=myaFM3gLd2g)
+[Video](https://youtu.be/goNuX8pZqDM)
 
 ### Aufgabe 8 (Funktion)
 
