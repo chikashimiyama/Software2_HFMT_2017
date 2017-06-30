@@ -61,7 +61,7 @@ Wenn der Benutzer 'p' Taste drückt, stoppt das Quadrat die Drehung. Mit der 's'
 
 ### Aufgabe 8 (Funktion)
 
-Mit einer Funktion "calcArea", berechnet die folgende Skizze die Fläche eines Kreises aber die Funktion ist noch nicht definiert. Definieren Sie die Funktion "calcArea" und ergenzen Sie die Skizze.
+Mit einer Funktion "calcArea", rechnet die folgende Skizze die Fläche eines Kreises aber die Funktion ist noch nicht definiert. Definieren Sie die Funktion "calcArea" und ergenzen Sie die Skizze.
 
 ```
 void setup(){
@@ -70,5 +70,6 @@ void setup(){
   println("the area of circle is " + area + " where the radius=3.2");
 }
 ```
+Ergebnis:
 ![](res/test/q8.png)
 
